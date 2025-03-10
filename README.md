@@ -2,9 +2,6 @@
 
 A simple **VLC Player Clone** built using **Python, PyQt5, and VLC**, with support for local file playback, URL streaming (including **YouTube videos**), PiP mode, and more.
 
-**GitHub Repository Link:**
-https://github.com/RaghavDied/VLC_clone.git
-
 ## 🚀 Features
 - 🎬 **Play Local Files**: Open and play any media file.
 - 🌍 **Stream Online URLs**: Play videos from direct URLs.
